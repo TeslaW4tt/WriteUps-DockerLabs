@@ -24,7 +24,7 @@ Una vez dentro de la maquina podemos ver que existen 3 usuarios por lo que tenem
 
 ![Escaneo de puertos](Imagenes/amor/5.PNG)
 
-Dentro del directorio de carlota encontramos una *iagen-jpg* por lo que para poderla analizar creamos un servidor en python 
+Dentro del directorio de carlota encontramos una *imagen-jpg* por lo que para poderla analizar creamos un servidor en python 
 
 ![Escaneo de puertos](Imagenes/amor/6.PNG)
 En nuestra maquina atacante obtenemos la imagen de la maquina victima 
